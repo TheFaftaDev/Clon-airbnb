@@ -1,0 +1,76 @@
+
+img{
+    width: 55px;
+}
+
+.navbar-nav .nav-link .svg-inline--fa {
+    font-size: 24px;
+  }
+  
+#navbar{
+ display: flex;
+ justify-content: space-between;
+ background-color: #ffff;
+ 
+}
+
+#navbar2{
+    display: flex;
+    justify-content:space-between;
+    width: 90%;
+    left: 10%;
+}
+
+#navbar-center{
+    display: flex;
+    justify-content: center;
+}
+#navbar-left{
+    display: flex;
+    justify-content: space-between;
+    width: 37%;
+    position: relative;
+    right: 2%;
+   
+
+
+}
+
+#globe{
+    border-radius: 90%;
+    position: relative;
+    border: 1px solid #f7f7f7;
+}
+
+#globe:hover{
+    background-color: #f7f7f7;
+}
+#navbarDropdown{
+    border-radius: 35%;
+    border: 2px solid #e1e1e1;
+    display: flex;
+    justify-content: space-between;
+    background-color: blues;
+}
+
+#title{
+    color: #ff385c;
+    width: 50%;
+}
+
+#exp, #expl, #house{
+    font-size: 18px;
+    border-radius: 22% 22% 22% 22%;
+    
+}
+
+#exp, #expl, #house:hover{
+    background-color: #f7f7f7;
+}
+
+#estancias{
+    color: #000000ce;
+   font-weight: 400;
+   font-size: 18px;
+}
+
